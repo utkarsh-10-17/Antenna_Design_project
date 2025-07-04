@@ -1,0 +1,5 @@
+# requirements.txt
+
+CST Studio Suite (any recent version supporting 3D EM simulation)
+(Optional) AutoCAD (for mechanical drawings)
+PDF reader (for the report)
