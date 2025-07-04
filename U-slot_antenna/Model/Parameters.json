@@ -1,0 +1,65 @@
+{
+    "parameters": [
+        {
+            "expr": "50",
+            "name": "Wg",
+            "value": "50"
+        },
+        {
+            "expr": "67",
+            "name": "Lg",
+            "value": "67"
+        },
+        {
+            "expr": "3.175",
+            "name": "Hc",
+            "value": "3.175"
+        },
+        {
+            "expr": "27",
+            "name": "W",
+            "value": "27"
+        },
+        {
+            "expr": "16.5",
+            "name": "Y",
+            "value": "16.5"
+        },
+        {
+            "expr": "34",
+            "name": "L",
+            "value": "34"
+        },
+        {
+            "expr": "12",
+            "name": "Ws",
+            "value": "12"
+        },
+        {
+            "expr": "2",
+            "name": "b",
+            "value": "2"
+        },
+        {
+            "expr": "28.25",
+            "name": "Ls",
+            "value": "28.25"
+        },
+        {
+            "expr": "5",
+            "name": "Wc",
+            "value": "5"
+        },
+        {
+            "expr": "2",
+            "name": "a",
+            "value": "2"
+        },
+        {
+            "expr": "26.25",
+            "name": "Lc",
+            "value": "26.25"
+        }
+    ],
+    "version": 1
+}

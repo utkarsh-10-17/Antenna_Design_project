@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.0 - Sep 20 2018 - ACIS 28.0.2 -
+[Author]
+ASUS PROART
+[Mesh Cells]
+389,254
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:wide band dual beam u-slot microstrip antenna.cst?ab4ae277912f807db548823ed192bbd6?15039:numberofparameters=12:port=1>mode=1>zre=0>zim=0:::hc?l?lc?lg?ls?w?wc?wg?ws?y?a?b
+[Comment]
